@@ -1,0 +1,30 @@
+.topHeader {
+  color: rgb(255, 255, 255);
+  background-color: rgb(96, 212, 115);
+  background-image: linear-gradient(
+    rgb(107, 255, 131),
+    rgb(57, 141, 71),
+    rgb(21, 53, 26)
+  );
+}
+
+.pageContainer {
+  padding: 1em 6%;
+  background-color: rgba(0, 160, 24, 0.2);
+}
+
+.pageHeading {
+  border-right: 5px Solid rgb(0, 126, 19);
+  border-bottom: 5px Solid rgb(0, 126, 19);
+  color: rgb(0, 126, 19);
+  padding: 1% 5%;
+  text-align: center;
+}
+.pageContainer p {
+  text-align: justify;
+}
+
+.footer {
+  text-align: center;
+  font-style: italic;
+}

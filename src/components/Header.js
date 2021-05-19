@@ -32,8 +32,11 @@ function Header({ currentPage, handlePageChange }) {
     />
   ));
   return (
-    <div className="bg-dark text-white d-flex ">
-      <div className="col p-3 mb-2 ">
+    <div className="text-white d-flex topHeader">
+      <div className="col">
+      <div className="row justify-content-center">
+          <h2>Arvin John Bautista</h2>
+        </div>
         <div className="row justify-content-center">
           <ul className="nav nav-tabs">{HeaderItems}</ul>
         </div>
@@ -42,8 +45,8 @@ function Header({ currentPage, handlePageChange }) {
             src={Pic}
             alt="AJ Profile"
             style={{
-              height: "125px",
-              width: "125px",
+              height: "150px",
+              width: "150px",
               padding: "0.5%",
               margin: "0.5%",
               border: "3px Solid rgb(255, 255, 255)",
