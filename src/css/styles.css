@@ -20,10 +20,24 @@
   padding: 1% 5%;
   text-align: center;
 }
-.pageContainer p {
+.content {
+  padding: 5% 0 0 0;
   text-align: justify;
+  font-family: "Times New Roman", Times, serif;
 }
-
+.content li {
+  list-style-type: none;
+  width: 185px;
+  border: 5px Solid rgb(73, 73, 73);
+  background-color: rgb(73, 73, 73);
+  padding: 0.6%;
+  margin: 0.6%;
+  text-align: center;
+}
+.content li a {
+  color: white;
+  line-height: 3em;
+}
 .footer {
   text-align: center;
   font-style: italic;

@@ -1,21 +1,30 @@
 import React from "react";
 
 const MyContact = () => (
-  <div>
-    <h1>My Contact</h1>
-    <p>
-      Integer cursus bibendum sem non pretium. Vestibulum in aliquet sem, quis
-      molestie urna. Aliquam semper ultrices varius. Aliquam faucibus sit amet
-      magna a ultrices. Aenean pellentesque placerat lacus imperdiet efficitur.
-      In felis nisl, luctus non ante euismod, tincidunt bibendum mi. In a
-      molestie nisl, eu sodales diam. Nam tincidunt lacus quis magna posuere,
-      eget tristique dui dapibus. Maecenas fermentum elementum faucibus. Quisque
-      nec metus vestibulum, egestas massa eu, sollicitudin ipsum. Nulla
-      facilisi. Sed ut erat ligula. Nam tincidunt nunc in nibh dictum
-      ullamcorper. Class aptent taciti sociosqu ad litora torquent per conubia
-      nostra, per inceptos himenaeos. Etiam ornare rutrum felis at rhoncus.
-      Etiam vel condimentum magna, quis tempor nulla.
-    </p>
+  <div className="pageContainer flex">
+    <div className="row">
+      <div className="col-l-4 col-md-4 col-sm-4">
+        <h2 className="pageHeading">My Contacts</h2>
+      </div>
+      <div className="col-l-8 col-md-8 col-sm-8 content">
+        <ul>
+          <li>
+            <a href="https://mail.google.com/">arvinyoung01@gmail.com</a>
+          </li>
+          <li>
+            <a href="https://github.com/irvinek01">GitHub</a>
+          </li>
+          <li>
+            <a href="https://www.facebook.com/Ikinneaas/">Facebook</a>
+          </li>
+          <li>
+            <a href="https://www.linkedin.com/in/irvine-kinneas-5a8a68207/">
+              Linkedin
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
   </div>
 );
 

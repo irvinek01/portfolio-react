@@ -20,7 +20,7 @@ class Portfolio extends Component {
       case "My Work":
         return <MyWork />;
 
-      case "My Contact":
+      case "My Contacts":
         return <MyContact />;
 
       case "My Resume":

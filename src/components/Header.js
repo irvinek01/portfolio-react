@@ -22,7 +22,7 @@ function HeaderItem({ active, page, handlePageChange }) {
 }
 
 function Header({ currentPage, handlePageChange }) {
-  const pageNames = ["About Me", "My Work", "My Contact", "My Resume"];
+  const pageNames = ["About Me", "My Work", "My Contacts", "My Resume"];
   const HeaderItems = pageNames.map((page) => (
     <HeaderItem
       key={page}

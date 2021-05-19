@@ -4,9 +4,9 @@ const AboutMe = () => (
   <div className="pageContainer flex">
     <div className="row">
       <div className="col-l-4 col-md-4 col-sm-4">
-        <h1 className="pageHeading">About Me</h1>
+        <h2 className="pageHeading">About Me</h2>
       </div>
-      <div className="col-l-8 col-md-8 col-sm-8">
+      <div className="col-l-8 col-md-8 col-sm-8 content">
         <p>
           My Full name is Bautista, Arvin John, Macaya(Lastname, Firstname,
           Middlename) and yes, I have two first names
