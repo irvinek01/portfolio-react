@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Portfolio using React
+
+This app acts as my portfolio
+
+## Create React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
