@@ -2,6 +2,8 @@
 
 This app acts as my portfolio
 
+Web app lived deployed @ https://irvinek01.github.io/portfolio-react/
+
 ## Create React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
