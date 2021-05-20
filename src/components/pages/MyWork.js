@@ -9,47 +9,51 @@ const MyWork = () => (
       <div className="col-l-8 col-md-8 col-sm-8 content">
         <div className="workContent">
           <div className="row">
-            <div className="col-md-10 col-sm-10 big workBox">
+            <div className="col-md-10 col-sm-10 workBox first">
               <a href="https://irvinek01.github.io/world-of-words/">
-                <span>
-                  <h3>World of Words</h3>
+                <label>
+                  <p>World of Words</p>
                   <p>A Word Defining Web App</p>
-                </span>
+                </label>
               </a>
             </div>
           </div>
 
           <div className="row">
-            <div className="col-md-5 col-sm-5 workBox">
+            <div className="col-md-5 col-sm-5 workBox second">
               <a href="https://neighborhood-appage.herokuapp.com/">
-                <span>
-                  <h3>Neighborhood Watch</h3>
-                  <p>A Rating Review Web App</p>
-                </span>
+                <label>
+                  <p>Neighborhood Watch</p>
+                  <p>A Rating Reviewer</p>
+                </label>
               </a>
             </div>
-            <div className="col-md-5 col-sm-5 workBox">
+            <div className="col-md-5 col-sm-5 workBox third">
               <a href="https://aj-tech-blog.herokuapp.com/">
-                <span>
-                  <h3>Tech Blog</h3>
+                <label>
+                  <p>Tech Blog</p>
                   <p>A Blogsite</p>
-                </span>
+                </label>
               </a>
             </div>
           </div>
 
           <div className="row">
-            <div className="col-md-5 col-sm-5 workBox">
-              <span>
-                <h3>Figure 4</h3>
-                <p>Left</p>
-              </span>
+            <div className="col-md-5 col-sm-5 workBox fourth">
+              <a href="#">
+                <label>
+                  <p>Figure 4</p>
+                  <p>Left</p>
+                </label>
+              </a>
             </div>
-            <div className="col-md-5 col-sm-5 workBox">
-              <span>
-                <h3>Figure 5</h3>
-                <p>Right</p>
-              </span>
+            <div className="col-md-5 col-sm-5 workBox fifth">
+              <a href="#">
+                <label>
+                  <p>Figure 5</p>
+                  <p>Right</p>
+                </label>
+              </a>
             </div>
           </div>
         </div>
