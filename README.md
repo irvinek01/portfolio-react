@@ -1,6 +1,7 @@
 # Portfolio using React
 
-This app acts as my portfolio
+## Description
+A Web-based portfolio, This is the react.js version of my recent portfolio in https://irvinek01.github.io/Homework2-Professional-Portfolio/, A display of my works/projects that I'm part of, to showcase my skills and talents to employers looking to fill a part-time or full-time position. Features a responsive UI that depends on device screens (Phone, Tablet, Monitor Wide)
 
 Web app lived deployed @ https://irvinek01.github.io/portfolio-react/
 
