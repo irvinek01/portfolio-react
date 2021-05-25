@@ -81,6 +81,14 @@
   background: rgb(28, 121, 57) url("../assets/images/blog.png") repeat-y;
   background-size: 50% auto;
 }
+.fourth {
+  background: rgb(28, 121, 57) url("../assets/images/googlebooks.png") repeat-y;
+  background-size: 50% auto;
+}
+.fifth {
+  background: rgb(28, 121, 57) url("../assets/images/employeedirectory.png") repeat-y;
+  background-size: 50% auto;
+}
 .workContent label {
   font-size: 1.1em;
   padding-left: 55%;

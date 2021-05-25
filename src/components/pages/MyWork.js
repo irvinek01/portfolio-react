@@ -40,18 +40,18 @@ const MyWork = () => (
 
           <div className="row">
             <div className="col-md-5 col-sm-5 workBox fourth">
-              <a href="#">
+              <a href="https://aj-google-books.herokuapp.com/">
                 <label>
-                  <p>Figure 4</p>
-                  <p>Left</p>
+                  <p>Google Books</p>
+                  <p>Book Search Engine</p>
                 </label>
               </a>
             </div>
             <div className="col-md-5 col-sm-5 workBox fifth">
-              <a href="#">
+              <a href="https://irvinek01.github.io/employee-directory-react/">
                 <label>
-                  <p>Figure 5</p>
-                  <p>Right</p>
+                  <p>Employee Directory</p>
+                  <p>usign React!</p>
                 </label>
               </a>
             </div>
