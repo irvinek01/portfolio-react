@@ -51,7 +51,7 @@
 .workBox {
   padding: 0.5%;
   margin: 0.2%;
-  height: 150px;
+  height: 140px;
   border: 5px Solid rgb(73, 73, 73);
   border-radius: 30px 30px 30px 30px;
   background-color: rgb(28, 121, 57);
@@ -71,7 +71,7 @@
 .first {
   background: rgb(28, 121, 57) url("../assets/images/worldofwords.png") repeat-y;
   background-size: 50% auto;
-  height: 170px;
+  height: 160px;
 }
 .second {
   background: rgb(28, 121, 57) url("../assets/images/neighborhoodwatch.png")
