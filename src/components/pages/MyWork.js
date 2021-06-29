@@ -13,7 +13,7 @@ const MyWork = () => (
               <a href="https://irvinek01.github.io/world-of-words/">
                 <label>
                   <p>World of Words</p>
-                  <p>A Word Defining Web App</p>
+                  <p>A Word Defining Web App with Pictures</p>
                 </label>
               </a>
             </div>
@@ -24,15 +24,15 @@ const MyWork = () => (
               <a href="https://neighborhood-appage.herokuapp.com/">
                 <label>
                   <p>Neighborhood Watch</p>
-                  <p>A Rating Reviewer</p>
+                  <p>A Place Rating Reviewer</p>
                 </label>
               </a>
             </div>
             <div className="col-md-5 col-sm-5 workBox third">
-              <a href="https://aj-tech-blog.herokuapp.com/">
+              <a href="https://medianmen-chromesthesia.herokuapp.com/">
                 <label>
-                  <p>Tech Blog</p>
-                  <p>A Blogsite</p>
+                  <p>Chromesthesia</p>
+                  <p>A Music Video Playlist App with the concept of said title</p>
                 </label>
               </a>
             </div>
