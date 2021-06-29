@@ -51,6 +51,7 @@
 .workBox {
   padding: 0.5%;
   margin: 0.2%;
+  height: 150px;
   border: 5px Solid rgb(73, 73, 73);
   border-radius: 30px 30px 30px 30px;
   background-color: rgb(28, 121, 57);
@@ -70,7 +71,7 @@
 .first {
   background: rgb(28, 121, 57) url("../assets/images/worldofwords.png") repeat-y;
   background-size: 50% auto;
-  height: 150px;
+  height: 170px;
 }
 .second {
   background: rgb(28, 121, 57) url("../assets/images/neighborhoodwatch.png")
@@ -90,8 +91,8 @@
   background-size: 50% auto;
 }
 .workContent label {
-  font-size: 1.1em;
-  padding-left: 55%;
+  font-size: 1em;
+  margin-left: 55%;
 }
 .footer {
   color: rgb(0, 109, 16);
